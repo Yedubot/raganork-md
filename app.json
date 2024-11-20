@@ -46,7 +46,7 @@
         "CHATBOT": {
             "description": "AI chatbot",
             "required": true,
-            "value":"off"
+            "value":"on"
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
